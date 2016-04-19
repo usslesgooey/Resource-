@@ -1,0 +1,8 @@
+// OpenGL :: Forums
+https://www.opengl.org/discussion_boards/showthread.php/168825-interactive-mouse-drawing-points
+http://perso.uclouvain.be/vincent.legat/teaching/documents/meca2170-cours2.pdf
+// Web Development
+https://fizzy.design:5000/?id=<id here> //CSGO personal stats finder :: Thanks IZZY
+// Random
+http://slam.flankers.net // Play music for your frends in games
+https://unetbootin.github.io/ // usb linux
